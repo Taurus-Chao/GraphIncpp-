@@ -1,4 +1,6 @@
 #include"Graph_exercise.h"
+#include"AlgorithmInGraph.h"
+#include"maze.h"
 #include<iostream>
 #include<unordered_map>
 using namespace std;
